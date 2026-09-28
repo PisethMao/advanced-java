@@ -8,6 +8,13 @@
       </list>
     </option>
   </component>
+  <component name="PrintToLogpointModuleInspectionState">
+    <option name="disabledModuleNames">
+      <set>
+        <option value="advanced-java" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="27" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
