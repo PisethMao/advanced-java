@@ -3,9 +3,11 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/binary-operator-example/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/consumer-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flatmap-example/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/function-example/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stream-map-example/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/unary-operator-example/src/main/java" charset="UTF-8" />
   </component>
 </project>
