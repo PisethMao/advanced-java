@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/consumer-example/pom.xml" />
         <option value="$PROJECT_DIR$/function-example/pom.xml" />
         <option value="$PROJECT_DIR$/unary-operator-example/pom.xml" />
+        <option value="$PROJECT_DIR$/binary-operator-example/pom.xml" />
       </list>
     </option>
   </component>
