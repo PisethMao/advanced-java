@@ -11,6 +11,8 @@
         <option value="$PROJECT_DIR$/binary-operator-example/pom.xml" />
         <option value="$PROJECT_DIR$/stream-map-example/pom.xml" />
         <option value="$PROJECT_DIR$/flatmap-example/pom.xml" />
+        <option value="$PROJECT_DIR$/stream-sorting/pom.xml" />
+        <option value="$PROJECT_DIR$/stream-distinct-example/pom.xml" />
       </list>
     </option>
   </component>

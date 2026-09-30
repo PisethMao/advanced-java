@@ -13,7 +13,7 @@
       </option>
     </inspection_tool>
     <inspection_tool class="CommentedOutCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
-      <option name="minLines" value="8" />
+      <option name="minLines" value="10" />
     </inspection_tool>
   </profile>
 </component>
