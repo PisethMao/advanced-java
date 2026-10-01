@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: datetime-formatter-demo
