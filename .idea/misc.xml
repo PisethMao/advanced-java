@@ -21,6 +21,8 @@
         <option value="$PROJECT_DIR$/completable-future-demo/pom.xml" />
         <option value="$PROJECT_DIR$/accumulator-demo/pom.xml" />
         <option value="$PROJECT_DIR$/type-annotations-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/type-reference-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/target-typing-demo/pom.xml" />
       </list>
     </option>
   </component>
