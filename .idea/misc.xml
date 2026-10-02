@@ -20,6 +20,7 @@
         <option value="$PROJECT_DIR$/completion-stage-demo/pom.xml" />
         <option value="$PROJECT_DIR$/completable-future-demo/pom.xml" />
         <option value="$PROJECT_DIR$/accumulator-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/type-annotations-demo/pom.xml" />
       </list>
     </option>
   </component>
