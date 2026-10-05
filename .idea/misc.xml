@@ -23,6 +23,8 @@
         <option value="$PROJECT_DIR$/type-annotations-demo/pom.xml" />
         <option value="$PROJECT_DIR$/type-reference-demo/pom.xml" />
         <option value="$PROJECT_DIR$/target-typing-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/flow-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/varhandle-demo/pom.xml" />
       </list>
     </option>
   </component>
@@ -32,6 +34,7 @@
         <option value="advanced-java" />
         <option value="completable-future-demo" />
         <option value="consumer-example" />
+        <option value="flow-demo" />
       </set>
     </option>
   </component>
