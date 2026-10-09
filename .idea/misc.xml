@@ -28,7 +28,13 @@
         <option value="$PROJECT_DIR$/var-demo/pom.xml" />
         <option value="$PROJECT_DIR$/records-demo/pom.xml" />
         <option value="$PROJECT_DIR$/scoped-values-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/stable-values-demo/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/stable-values-demo/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="PrintToLogpointModuleInspectionState">
